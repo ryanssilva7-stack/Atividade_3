@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.body_index {
+        margin: 0;
+        background :color rgb(7, 7, 7);
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        text-align: center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        align-items: center;
+        background-size: cover;
+        color: white;
+    }
+.h1_index {
+        text-align: center;
+        font-size: 24px;
+        height: 40px;
+        margin: 20px 0;
+        color: white;
+    }
+.button_index {
+        background: div id="a98467"/div;
+        border: 2px solid #faedcd;
+        color: #000;
+        padding: 15px 30px;
+        font-size: 20px;
+        cursor: pointer;
+        front-family: inherit;
+        border-radius: 50px;
+    }
+.body_index {
+    background-image: url("imagem/red\ dead.jpg");
+}
