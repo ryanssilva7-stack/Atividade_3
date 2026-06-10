@@ -17,11 +17,14 @@
     position: relative;
     overflow: hidden;
 }
+h1 {
+    color: #EB5773;
+}
 
 .h1_pagina_4 {
     text-align: center;
     font-size: 48px;
-    color: #ff0000;
+    color: #010101;
     text-transform: uppercase;
     letter-spacing: 4px;
     text-shadow: 0 0 10px rgba(0, 255, 102, 0.7);
@@ -31,7 +34,7 @@
 .h2_pagina_4 {
     text-align: center;
     font-size: 36px;
-    color: #00ff66;
+    color: #EB5773;
     text-transform: uppercase;
     letter-spacing: 2px;
     text-shadow: 0 0 8px rgba(0, 255, 102, 0.5);
