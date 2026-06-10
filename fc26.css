@@ -12,7 +12,7 @@
     box-sizing: border-box;
 }
 
-body.body_pagina_4 {
+body.body_pag3 {
     background-color: var(--cor-fundo);
     font-family: var(--font-principal);
     color: var(--cor-texto);
@@ -27,7 +27,7 @@ body.body_pagina_4 {
     background-size: 60px 105px;
 }
 
-.container_pagina_4 {
+.container_pag3 {
     background: rgba(10, 22, 18, 0.9);
     padding: 40px;
     border-radius: 4px;
@@ -40,7 +40,7 @@ body.body_pagina_4 {
     z-index: 2;
 }
 
-.h1_pagina_4 {
+.h1_pag3 {
     font-size: 0.9rem;
     text-transform: uppercase;
     letter-spacing: 3px;
@@ -49,7 +49,7 @@ body.body_pagina_4 {
     font-weight: 700;
 }
 
-.h2_pagina_4 {
+.h2_pag3 {
     font-size: 2.4rem;
     font-weight: 800;
     text-transform: uppercase;
@@ -58,7 +58,7 @@ body.body_pagina_4 {
     text-shadow: 2px 2px 0px rgba(0, 255, 135, 0.3);
 }
 
-.p_pagina_4 {
+.p_pag3 {
     font-size: 1.05rem;
     line-height: 1.6;
     margin-bottom: 20px;
@@ -72,7 +72,7 @@ body.body_pagina_4 {
     margin-top: 10px;
 }
 
-.button_pagina_4 {
+.button_pag3 {
     display: inline-block;
     text-decoration: none;
     background: transparent;
@@ -86,14 +86,13 @@ body.body_pagina_4 {
     box-shadow: 0 0 10px rgba(0, 255, 135, 0.2);
 }
 
-.button_pagina_4:hover {
+.button_pag3:hover {
     background-color: var(--cor-neon);
     color: #050b09;
     box-shadow: 0 0 20px rgba(0, 255, 135, 0.6);
     transform: translateY(-2px);
 }
 
-/* Customização do botão Voltar na pág do FC */
 .nav-buttons .btn-voltar {
     border-color: #555;
     color: #bbb;
@@ -103,6 +102,7 @@ body.body_pagina_4 {
     background-color: #333;
     color: #fff;
     box-shadow: 0 0 15px rgba(255, 255, 255, 0.2);
+    transform: translateY(-2px);
 }
 
 .smoke-effect {
